@@ -37,9 +37,8 @@ Paid Search drives the majority of traffic, followed by Organic Search, Social M
 A line graph compares daily page views against set targets.
 A bar chart visualizes traffic throughout the week, with relatively stable performance on weekdays.
 
-![Web Traffic Dashboard](Screenshot 2025-02-10 195643.png)
-![Page Views Analysis](Screenshot 2025-02-10 195704.png)
-
+![Web Traffic Dashboard](https://github.com/atharvagolwalkar/Web-Traffic-Analysis-Dashboard/blob/main/Screenshot%202025-02-10%20195643.png)
+![Page Views Analysis](https://github.com/atharvagolwalkar/Web-Traffic-Analysis-Dashboard/blob/main/Screenshot%202025-02-10%20195704.png)
 
 ## Recommendations
 Based on the insights gathered from the web traffic analysis, the following recommendations can help improve website performance:
